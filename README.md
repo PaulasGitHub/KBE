@@ -91,9 +91,3 @@ limitations under the License.
 <img src="https://c.tenor.com/SYpRfoThETsAAAAC/black-cat-christmas-tree.gif" alt="A lot of black cats are photoshopped together to resemble the shape of a christmas tree. Their eyes are blinking irregularly, mimicking fairy lights." height="500px">
 
 
-
-
-
-
-In the course of the KBE module in winter semester 21/22, the "pineapple project" was created. It consists of various microservices and represents a web shop.
-
