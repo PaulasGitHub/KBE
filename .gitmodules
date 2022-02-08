@@ -10,3 +10,6 @@
 [submodule "KBE_Project"]
 	path = KBE_Project
 	url = https://github.com/Krysenkova/KBE_Project.git
+[submodule "Storage-Service"]
+	path = Storage-Service
+	url = https://github.com/Krysenkova/Storage-Service.git
