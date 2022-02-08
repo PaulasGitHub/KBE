@@ -7,3 +7,6 @@
 [submodule "Calculator-Service"]
 	path = Calculator-Service
 	url = https://github.com/Krysenkova/Calculator-Service.git
+[submodule "KBE_Project"]
+	path = KBE_Project
+	url = https://github.com/Krysenkova/KBE_Project.git
