@@ -1,0 +1,7 @@
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/PaulasGitHub/frontend.git
+
+[submodule "gateway"]
+	path = Gateway
+	url = https://github.com/PaulasGitHub/gateway.git
