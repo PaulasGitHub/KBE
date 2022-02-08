@@ -4,3 +4,6 @@
 [submodule "gateway"]
 	path = gateway
 	url = https://github.com/PaulasGitHub/gateway.git
+[submodule "Calculator-Service"]
+	path = Calculator-Service
+	url = https://github.com/Krysenkova/Calculator-Service.git
