@@ -24,11 +24,12 @@ The full project includes:
 * Calculator Service
 * Storage Service
 * Gateway Service
-* Frontend Service
+* Frontend
 
 Which can all be found as submodules to this repo.
 
 ## Installation and Run
+To start the whole Project [Rebex SFTP server](https://www.rebex.net/tiny-sftp-server/) is required. Clone all required submodules, install the required components and run each service. <br>
 
 Apart from the frontend, all services in this project require [Maven](https://maven.apache.org/install.html) to run. <br>
 After cloning the repos and once Maven is installed, enter 
@@ -51,6 +52,14 @@ npm start
 And open the app in your favourite browser (we recommend [Firefox](https://www.mozilla.org/en-US/firefox/download/thanks/)) via ```localhost:3000 ```.
 
 ## Architecture and Implementation
+
+<br>
+
+<img src="http://drive.google.com/uc?export=view&id=1ZSA4qckagWg2Giyt0KnQkws5NUgj8vA8" alt="Component diagram of the Christmasshop" height="300px"> <br>
+(_image: Architecture diagram_)
+
+<img src="http://drive.google.com/uc?export=view&id=1lb1zSSAon0Rccgquj1Yp9BHuq1tbndeg" alt="Sequence diagram of the Christmasshop" width="300px"> <br>
+(_image: Sequence diagram_)
 
 ## Used Technologies
 * [Docker](https://www.docker.com/products/docker-desktop)
