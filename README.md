@@ -2,7 +2,7 @@
 
 <img src="https://c.tenor.com/9gapUwomsxsAAAAd/kitten-christmas.gif" alt="A kitten walks towards the camera. On its tail are drawn christmas decorations so that it looks like a christmas tree." height="200px">
 
-## Projektaufgabe für "Komponentenbasierte Entwicklung"
+## Project assignment for "Komponentenbasierte Entwicklung"
 _Hochschule für Technik und Wirtschaft Berlin, WiSe21/22_
 
 ---
@@ -84,7 +84,7 @@ And open the app in your favourite browser (we recommend [Firefox](https://www.m
 ## License
 Copyright 2022 Krysenkova, Pätzold
 
-Licensed under the Apache License, Version 2.0 (the "License");
+Licensed under the [Apache License, Version 2.0](LICENSE) (the "License");
 you may not use this file except in compliance with the License.
 You may obtain a copy of the License at
 
